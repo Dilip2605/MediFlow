@@ -1,0 +1,11 @@
+streamlit>=1.25
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+matplotlib
+seaborn
+fpdf
+Pillow
+tensorflow-cpu==2.13.0

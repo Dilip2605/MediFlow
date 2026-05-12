@@ -1,0 +1,11 @@
+data/
+models/*.pkl
+models/*.keras
+models/*.h5
+*.db
+__pycache__/
+*.pyc
+.env
+mlruns/
+.DS_Store
+Thumbs.db
