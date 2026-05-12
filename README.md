@@ -16,7 +16,7 @@ The goal of this project is to help hospitals and clinics improve diagnosis supp
 
 ### Links
 
-[Live Demo](http://10.211.157.208:8501) • [GitHub](https://github.com/Dilip2605/MediFlow) • [LinkedIn](https://linkedin.com/in/dilipkumar-p-20020526cse)
+[Live Demo](https://mediflow-dilip.streamlit.app) • [GitHub](https://github.com/Dilip2605/MediFlow) • [LinkedIn](https://linkedin.com/in/dilipkumar-p-20020526cse)
 
 </div>
 
